@@ -49,4 +49,4 @@ If you encounter this executable (or a variant) you should consider the followin
 This investigation does *not* make definitive claims about the authorship or full intent of the executable, but the behavioural evidence strongly aligns with established malware tactics. We recommend caution and further scrutiny for deployment, trust or inclusion of this binary in any mission‑critical system.
 
 ---  
-*Published by **PL2I** – Independent Investigation. Last updated: November 2025.*  
+- Last updated: 9nth of November 2025
