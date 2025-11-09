@@ -20,7 +20,8 @@ Community moderators have reported **strict communication restrictions** on what
 
 Below is a screenshot reportedly shared by a verified moderator on the Player2 team, illustrating internal communication guidelines and tone enforcement:
 
-![Evidence](https://media.discordapp.net/attachments/1379563917797228554/1432086054004854906/IMG_3116.png?ex=68ffc592&is=68fe7412&hm=c676170152b8cd7aabbe8bf6be39d60e7f8f056f370f63f9881bb7b3a12ac3b3&=&format=webp&quality=lossless&width=910&height=876)
+![@OptimiDev with all due respect and appreciate your help, if you keep shit talking us in general... Like compare our free plan to North Korean WiFi(not gonna argue this is the best free plan out there) or hinting people/you should leave because we added a paid plan, we can't have you as a moderator of the server since people respect words from moderators and you are making users not trust us.](https://pl2i.github.io/investigation/IMG_3116.png)
+- Said the company owner who has their app detected for [trojan](https://tria.ge/250909-nwaptswvdv)
 
 > **Note:** The screenshot above is presented for documentation purposes only.  
 > The individual’s identity has been withheld for privacy and safety reasons.  
