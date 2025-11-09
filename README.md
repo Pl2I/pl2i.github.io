@@ -27,6 +27,7 @@ This project is **non-commercial, factual, and journalistic** in nature.
 | **Moderator restrictions** | ⚠️ Ongoing | Strict rules limit what moderators can publicly report or discuss. |
 | **Developer restrictions** | ✅ Verified | Non-patron users limited to ~1 hour mod testing unless subscribed. |
 | **Transparency issues** | ⚠️ Ongoing | Branding and corporate disclosures inconsistent across platforms. |
+| **Possible Malware** | ⚠️ Ongoing | Detections(10/10, 6/10) on triage |
 
 ---
 
@@ -41,7 +42,8 @@ This project is **non-commercial, factual, and journalistic** in nature.
 - [Moderation & content safety](investigation/moderation.md)  
 - [Website analysis](investigation/website_analysis.md)  
 - [Report summary](investigation/report_summary.md)  
-- [Legal guidelines](investigation/legal/investigation.md)  
+- [Legal guidelines](investigation/legal/investigation.md)
+- [Possible Malware](investigation/sandboxing.md)
 - [Main Page](README.md) ← You are here
 
 ---
